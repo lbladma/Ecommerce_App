@@ -15,6 +15,7 @@ This app allows the user to build the back end for an e-commerce site by modifyi
 - [Summary](#Summary)
 - [Technologies](#technologies)
 - [Links](#links)
+- [Screenshots](#screenshots)
 #
 #
 
