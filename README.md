@@ -53,7 +53,7 @@ This app allows the user to build the back end for an e-commerce site by modifyi
 This is the link to the live Demo [Live Demo](https://drive.google.com/file/d/1YqNLR55ZHjhxBJ4ibVplYZ-ckzhMDN2w/view)
 
 
-This is the link to my github Repo [GitHub](https://github.com/lbladma/E-Commerce_Back-End)
+This is the link to my github Repo [GitHub](https://github.com/lbladma/ecommerce)
 #
 
  [<img alt="LinkedIn" src="images\linkedin.png">](https://www.linkedin.com/in/taoufika/)
